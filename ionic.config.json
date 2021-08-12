@@ -1,0 +1,7 @@
+{
+  "name": "uwiNcbApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
