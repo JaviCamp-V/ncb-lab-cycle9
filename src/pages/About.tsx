@@ -8,6 +8,10 @@ const About: React.FC = () => {
         <IonToolbar>
           <IonTitle>About</IonTitle>
         </IonToolbar>
+        Menu
+          <a href="/home"> Home </a> 
+          <a href="/about"> About </a>
+          <a href="/programmes"> Programmes </a>
       </IonHeader>
       <IonContent fullscreen>
         <IonHeader collapse="condense">

@@ -9,6 +9,12 @@ const Programmes: React.FC = () => {
         <IonToolbar>
           <IonTitle>Programmes</IonTitle>
         </IonToolbar>
+
+          Menu
+          <a href="/home"> Home </a> 
+          <a href="/about"> About </a>
+          <a href="/programmes"> Programmes </a>
+
       </IonHeader>
       <IonContent fullscreen>
         <IonHeader collapse="condense">
